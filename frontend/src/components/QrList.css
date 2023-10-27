@@ -1,0 +1,25 @@
+src/components/QrList.css
+.qr-list-container {
+    margin-top: 20px;
+  }
+  
+  .qr-code-item {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #f9f9f9;
+  }
+  
+  .qr-code-item p {
+    margin: 5px 0;
+  }
+  
+  .qr-code-item p:first-child {
+    font-weight: bold;
+  }
+  
+  .qr-code-item p:nth-child(3) {
+    color: #666;
+  }
+  
